@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An admonition to the magistrates of England upon our new settlement</title>
+            <author>Stephens, Edward, d. 1706.</author>
+         </titleStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61416</idno><idno type="EEBO-CITATION">13153739</idno>
+  <idno type="VID">98152</idno>
+  <idno type="EEBO-PROQUEST">2248519229</idno>
+  
+            <idno type="STC">Wing S5416</idno>
+            <idno type="STC">ESTC R16937</idno>
+            <idno type="OCLC">13153739</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A61416)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98152)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 751:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An admonition to the magistrates of England upon our new settlement</title>
+                  <author>Stephens, Edward, d. 1706.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Edward Stephens [i.e. Socrates Christianus]. Cf. NUC pre-1956.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Church and state --  England.</term>
+               <term type="geographic_name">Great Britain --  Social life and customs --  Law and legislation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:98152:1"/>
+            <pb n="1" facs="tcp:98152:1"/>
+            <head>AN ADMONITION TO THE <hi>Magistrates of England</hi> Upon our New Settlement.</head>
+            <p>I Have in some Papers dedicated to the King, under the Title, of The <hi>True English Government,</hi> &amp;c. and others intituled <hi>Of Humiliation,</hi> &amp;c. endeavoured to perswade the Promotion of <hi>A. Reformation</hi> of the Degenerate and Corrupt Manners of this Nation by a Proclamation by the King, and by some better and more effectual Laws to be provided by the Parliament, as a matter which we are obliged to (besides the Common Obligations and Interest of all States, especially Christian, to take care of the Manners of the People) by divers <hi>Special Obligations</hi> at this time, as the Examples of the Unhappiness of the last Race of our Kings, our late Admirable Deliverance, and our late Solemn Dayes of Thanksgiving, and of Humili<g ref="char:EOLhyphen"/>ation, and Dayly Common Prayers, especially during the Sitting of the Parliament, which without actual, zealous, and speedy Reformation, are all but mere Hypocrisie or Formality, &amp; such an Abomination in the sight of Almighty God, as is more likely to provoke him to deal with us according to our own ways, to withhold his Blessing, as we neglect his Service, and let our late Great Mercy dwindle by degrees, and turn at last into a Severe Judgment, rather than procure a continuance thereof. And I therein also intimated plainly enough in the
+<pb n="2" facs="tcp:98152:2"/>first of them, the great danger there was that the Neglect of this Duty would be attended with Impediments and Disap<g ref="char:EOLhyphen"/>pointments in our Counsels and Preparations. which Intima<g ref="char:EOLhyphen"/>tion the Event hitherto hath sufficiently shewed was not al<g ref="char:EOLhyphen"/>together vain.</p>
+            <p>These Papers were presented to, and received with good Approbation by many, who had the fairest opportunities and advantages for the promotion of such a work; but yet, for any thing that hath yet been done, have been but like the Prophets Song: Not a man have I heard of that ever opened his mouth in either House of Parliament for any such purpose though some there have been under very special Obligations, to be concerned for it. May that be remembred, <hi>They that honeour me I will honor; and they that dispise me shall be lightly esteemed.</hi>
+            </p>
+            <p>It remains therefore, since there is little hopes at present of any more effectual Laws for the restraining and reformation of those Evil Manners, which the Licentiousness of the two last Reigns had introduced or Encouraged, nor so much as a Proclamation to enforce the Execution of those we have alrea<g ref="char:EOLhyphen"/>dy, that the <hi>Magistrates</hi> will be perswaded to do it of them<g ref="char:EOLhyphen"/>selves. And for this purpose I will not repeat any thing con<g ref="char:EOLhyphen"/>cerning those several Obligations incumbent upon the whole Nation, which hath been mentioned before, and may be seen in the Papers before mentioned; but consider only the <hi>Speci<g ref="char:EOLhyphen"/>al Obligations</hi> of all those Noblemen and Gentlemen, and who<g ref="char:EOLhyphen"/>soever they are, who are or shall be in Commission of the Peace, and have taken or shall take the <hi>Oaths,</hi> which all by the Laws are bound to take before they can legally act in that Office.</p>
+            <p>Of those <hi>the Oath of Allegiance or Fidelity is one,</hi> which certainly, if well Considered, doth lay a Special Obligation, upon all who take it to observe the Laws; which is the only true and genuine Notion of Allegiance and Loyalty. But I will insist only upon what is most Plain and obvious to the meanest Capacity, and that is <hi>the Oath concerning the Office of Justice of the Peace,</hi> which hath been anciently to the like
+<pb n="3" facs="tcp:98152:2"/>effect that now it is. The very first words of this Oath con<g ref="char:EOLhyphen"/>tain enough for my present purpose and these they are:</p>
+            <p>
+               <hi>You shall Swear that as Justice of the Peace in the County of</hi> N. <hi>in all Articles in the Kings Commission to you directed, you shall do Equal Right to the Poor, and to the Rich, after your Cun<g ref="char:EOLhyphen"/>ning, Wit and Power, and after the Laws and Customs of the Realm, and Statutes thereof made,</hi> &amp;c.</p>
+            <p>In which words there are three things to be observed. 1 the <hi>Matter</hi> of the Obligation: and that is 1. in general, do Right, or Justice: 2. more particularly, to do Equal Right, without respect of Persons, to the Poor, and to the Rich. 2. the <hi>Ex<g ref="char:EOLhyphen"/>tent and Limitation</hi> of it, and that is threefold: 1. In all Arti<g ref="char:EOLhyphen"/>cles in the Kings Commission to the Justices, directed. 2. After the Lawes and Customs of the Realm, and Statutes thereof made. and, 3. Within such a Special County. 3. <hi>The Manner,</hi> and that is after the Cuning Wit, and Power of the Justice, according to the best of his Understanding, Skill, and Ability. For our better understanding of this our next step must be to the Articles of the Commission, the very begining of which will be sufficient for my present design, which I shall there<g ref="char:EOLhyphen"/>set down in plain English.</p>
+            <p>
+               <hi>Knowye, That we have assigned you joyntly and Severally, and every of you, our Justices to conserve our Peace in our County of N. And to keep, and cause to be kept, in our said County, as well within Liberties as without, All Ordinances and Statutes made for the Good of our Peace and the Conscervation thereof and for the quiet Rule and Government of our People, in all and every the Ar<g ref="char:EOLhyphen"/>ticles thereof according to the Force, Form, and Effect thereof: And to Chastise and Punish all Persons in our said County offen<g ref="char:EOLhyphen"/>ding against the Forme of those Ordinances or Statutes or any of them, as according to the Forme of those Ordinances and Statutes is to be done,</hi> &amp;c.</p>
+            <p>And this expresseth first the <hi>End,</hi> for which the Commi<g ref="char:EOLhyphen"/>sion is granted; and that is, to keep the Peace, and to keep and cause to be keept all Ordinances and Statutes, &amp;c. and than appoints the <hi>Means,</hi> viz. to chastice ahd punish all Of<g ref="char:EOLhyphen"/>fenders: and so shews what Justice it is, which by the Oath
+<pb n="4" facs="tcp:98152:3"/>we are obliged to do; and that is more especially the Pu<g ref="char:EOLhyphen"/>nishment of Offences against the Laws and Statutes of this Realm, or at least Enquiry, Examination, and Commitment in order to further punishment. And this must be done first <hi>equally</hi> upon all Persons offending in the said County, <hi>Omnes in Comitatu praedicto Delinquentes,</hi> saith the Commission; <hi>Equal Right,</hi> without respect of Persons, <hi>to the Poor and to the Rich,</hi> saith the Oath. All without Exception: All are subject to those Laws, be their Quality or Estate what it will, yet are they Sub<g ref="char:EOLhyphen"/>ject to these Laws And if I be intrusted by the King, and Sworn to God to execute the Laws, I must execute them upon all Per<g ref="char:EOLhyphen"/>sons, be they who they will, Civil, Military, or Ecclesiastical, who presume to transgress them, and thereby subject them<g ref="char:EOLhyphen"/>selves to the Authority with which I am invested &amp; intrusted. Be he my equal, or be he my Superior in any other respect, yet if he transgress those Laws which I am bound to Execute, and within the limits &amp; extent of my jurisdiction, I am bound to Execute them upon him; though in all other respects I must treat him according to his Quality. Even Priviledg of Par<g ref="char:EOLhyphen"/>liament extends not to Treason, Felony, and some other matters And If I must do it to those who are my Superiors, what ex<g ref="char:EOLhyphen"/>cuse, colour or Pretence can I have not to do it to any who is my Inferior, or but my Equal?</p>
+            <p>And as it must be done equally, and indifferently, without respect of persons, so it must be done <hi>effectually</hi> to the utmost of his Knowledg, Skill, and Ability, who is to do it; after his Cunning, wit, and Power, as is expressed in the Oath, as fully as Words could do it. And this doth certainly imply a Com<g ref="char:EOLhyphen"/>petent Skill; or at least a resolution to use all diligence, in<g ref="char:EOLhyphen"/>dustry, and Study to acquire a comperent Skill for the effec<g ref="char:EOLhyphen"/>ual discharge of such an undertaking; as will more fully ap<g ref="char:EOLhyphen"/>pear if we distinctly consider the <hi>several Obligations</hi> thereby immediatly contracted.</p>
+            <p n="1">1. There is an Acceptance of a Trust, and <hi>a Publick Trust,</hi> a Trust reposed by our Country, by the hand of our Prince. This is plain in the first and second <hi>Assignavimus,</hi> in the words of the Commission before recited, and those which follow not far after. And if the non-performance of a Trust between
+<pb n="5" facs="tcp:98152:3"/>Man and Man be a thing so odious and infamous as is com<g ref="char:EOLhyphen"/>monly reputed, what is to be thought of the non-performance of a Publick Trust, a Trust reposed by our King &amp; Country?</p>
+            <p n="2">2. The Acceptance of the Trust subjects the Person to the <hi>Command</hi> annexed to it in the Commission, in those words: <q>
+                  <hi>Et ideo vobis et cuilibet vestrum mandamus,</hi> &amp;c. And we there<g ref="char:EOLhyphen"/>fore command you, and every of you, that you diligently in<g ref="char:EOLhyphen"/>tend to the Keeping of the Peace, of the Ordinances, Statutes and of all and singular the Premises.</q> So that our <hi>Fidelity and Loyalty</hi> are plainly concerned in it, if we be Men who pretend to those things: but if we be Men who indeed make Consci<g ref="char:EOLhyphen"/>ence of Fidelity and true Loyalty, we know we are obliged to obey our Superiors, where they have Power to Command, not only for fear of Punishment, or any temporal respect, but for Conscience sake, and our Duty to God.</p>
+            <p n="3">3. This acceptance is under the most Solemn Engagement that can be, the most Sacred Obligation of <hi>an Oath.</hi> And all this upon a supposition in the Superior, that the Person is both com<g ref="char:EOLhyphen"/>petently qualified, or capable of being so by his just endeavours and resolved to the utmost upon the due performance of his un<g ref="char:EOLhyphen"/>dertaking and duty. He who is not thus resolved, is not fit to be trusted, and is very unadvised in his Undertaking. It is a business of that weight, that ought not lightly to be un<g ref="char:EOLhyphen"/>dertaken; not for the Honour or Credit of it, or to have a Power over ones Neighbours; but upon good consideration, for the Service of God and his Country: And being once undertaken, and under such Obligations, ought with all Care, Diligence and Resolution to be performed.</p>
+            <p>Among Publick <hi>Offences</hi> judged worthy of the severest Ani<g ref="char:EOLhyphen"/>madversions and Punishment, <hi>Profanation and Contempt of their Religion</hi> hath always been reckoned one of the First by the wisest even of Heathen Nations: But with us, though our Laws are too remiss and defective in that respect, yet to our shame, being Christians, it must be confessed, that our Ex<g ref="char:EOLhyphen"/>ecution for the two last Reigns hath been so much more remiss that it hath been neglected to a plain Impunity. In hopes therefore that our Government and Execution is now com<g ref="char:EOLhyphen"/>mitted to better hands, I shall transcribe</p>
+            <q>
+               <pb n="6" facs="tcp:98152:4"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="act">
+                        <head>An ACT to prevent and reform Prophane Swearing and Cursing.</head>
+                        <p>
+                           <hi>FOR as much as all prophane Swearing and Cursing is forbid<g ref="char:EOLhyphen"/>den by the Word of God, be it therefore enacted by the Au<g ref="char:EOLhyphen"/>thority of this present Parliament, that no Person or Persons shall from henceforth prophanely swear or curse: And that if any Person or Persons shall at any time or times hereafter offend herein, either in the hearing of any Iustice of the Peace of the County, or of any Mayor, Iustice of the Peace, Bailiff, or head Officer of any City, or Town-corporate where such offence is or shall be committed, or shall thereof be convicted by the Oaths of two Witnesses, or by confession of the party, before any such Iustice of the Peace of the County, or head Officer or Iustice of the Peace in the City or Town-corporate, where such offence is or shall be committed, to which end every Iustice of the Peace, and every such head Officer, shall have Power by this Act to minister the same Oath, that then every such Offender shall for every time so offending, forfeit and pay to the Vse of the Poor of that Parish where the same Of<g ref="char:EOLhyphen"/>fence is or shall be committed, the summ of twelve pence. And it shall also be lawful for the Constable, Church-wardens, and Overseers of the Poor of that Parish by warrant from such Iustice of the Peace, or head Officer, to levy the same summ and summs of money, by Distress and Sale of the Offendor's Goods, rendring to the party the overplus: And in defect of suh Distress, the Offendor, if he or she be above the Age of twelve Years, shall by warrant from such Iustice of the Peace or head Officer, be set in the Stocks by three whole Hours; but if the Offender be under the Age of twelve Years, and shall not forthwith pay the said summ of twelve pence, then he or she, by warrant of such Iustice of Peace, or head Officer, shall be whipp'd by the Constable, or by the Parent or Master in his presence.</hi>
+                        </p>
+                        <p>
+                           <hi>And be it further enacted, that if any such Offendor shall commence any Suit in Law against any Officer or other, for such distraining, Sale of Goods, Whipping, or setting in the Stocks, the Defendant or De<g ref="char:EOLhyphen"/>fendants may plead the General Issue, and give the special matter in evidence to the Iury at the Trial: And if it be found against the Plain<g ref="char:EOLhyphen"/>tiff, or that the Plaintiff be non-suit, the Defendant or Defendants shall be allowed good Costs, to be taxed by the Court.</hi>
+                        </p>
+                        <p>
+                           <hi>Provided nevertheless, that every Offence against this Zaw, shall be complained of, and proved as abovesaid, within twenty Days after the Offence commiteed.</hi>
+                        </p>
+                        <p>
+                           <hi>And it is also enacted, that this Act shall be read in every Parish-Church, by the Minister thereof, upon the Sunday after Evening Prayer, twice in the Year.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="7" facs="tcp:98152:4"/>
+            <p> This Act was made 21 <hi>Jac.</hi> 1. (<hi>c.</hi> 20.) and was then continued until the End of the first Session of the next Parlia<g ref="char:EOLhyphen"/>ment: and 3 <hi>Car.</hi> 1. (<hi>c.</hi> 4.) it with others was continued again to the End of the first Session of the then next Parlia<g ref="char:EOLhyphen"/>ment: and again 16 <hi>Car.</hi> 1. (<hi>c.</hi> 4.) after a long Intermissi<g ref="char:EOLhyphen"/>on of Parliaments, until some other Act of Parliament should be made touching the Continuance or Discontinuance there<g ref="char:EOLhyphen"/>of; so that, no such Act having since been made, it continues in force, as it was at first, at this day.</p>
+            <p>The Offence to be punished by this Law is a Crime com<g ref="char:EOLhyphen"/>mitted more immediately against the Sacred Majesty and Holiness of Almighty God; a Crime for which the Punish<g ref="char:EOLhyphen"/>ment here prescribed is not in the least proportionable, and therefore ought the more strictly to be exacted; a Crime whereof Men immersed in Sensuality, can hardly be made duly sensible; and therefore a certain Sign of a most depra<g ref="char:EOLhyphen"/>ved, inconsiderate, vain and base Mind and Spirit: <hi>Inconsi<g ref="char:EOLhyphen"/>derate</hi> so to transgress the Laws of God and Man; to give Ex<g ref="char:EOLhyphen"/>ample of Disorder and Violation of all Laws to others; to contradict himself, his Profession of the Belief of a Deity, and the Christian Religion, and his Pretence to Loyalty and Regard to his Country; to expose his Reputation, and by his own Ex<g ref="char:EOLhyphen"/>ample to provoke and authorize Rudeness, and Disrespect, and Affronts to himself: and yet more inconsiderate, and <hi>Vain</hi> too, to do all this, as many do, upon so mean a Motive, as an affected Ornament of Speech and Gallantry; and so to glory in his shame: and yet further, not only vain, but base and sordid, to do it as others do, even contrary to the Dictates of his own Conscience, in compliance with such inconsiderate and vain Persons, or through Impotence, which cannot over<g ref="char:EOLhyphen"/>come so unreasonable a Habit, or Evil Custom.</p>
+            <p>But to set out the Heinousness of this Crime to the full, would take up more room than so short a Discourse as I design will admit. Nor is it necessary: For from what is said, if well considered, we may reasonably conclude it a pregnant Evidence, not only of the strange Depravation of the Hu<g ref="char:EOLhyphen"/>mane Nature, but of its being obnoxious to the Impressions
+<pb n="8" facs="tcp:98152:5"/>of some Apostate Spirit, that so unnatural, so unreasonable, and so wicked a Crime, should ever so far overspread a Civi<g ref="char:EOLhyphen"/>lized and Christian Nation, and not only the ruder and ba<g ref="char:EOLhyphen"/>ser sort, but even those who have the greatest Advantages of Education. And if the Obligations before mentioned incum<g ref="char:EOLhyphen"/>bent upon all, who undertake this Office, to execute the Laws in general against all Offences punishable by their Au<g ref="char:EOLhyphen"/>thority; and these Instances of the Exorbitance and Heinous<g ref="char:EOLhyphen"/>ness of this in particular; if the Honour of God, the averting of his Judgments provoked by Connivance at such presump<g ref="char:EOLhyphen"/>tuous Crimes, Commiseration to the Souls of such unhappy Persons, as are carried away with the Prevalence of such Evil Customs, and Concern for the Honour of our Laws and Go<g ref="char:EOLhyphen"/>vernment, and better State of our Country, be not suffici<g ref="char:EOLhyphen"/>ent to excite Magistrates to a vigorous and resolute Execution of this Act for the Suppression of such a Crime as this, there is little hope that any thing, which might be added, will ever do it.</p>
+            <p>There are <hi>other presumptuous Violations of Religion</hi> so com<g ref="char:EOLhyphen"/>mon and notorious, as is a shame they are permitted with so much Impunity in a Christian State. And though the Pu<g ref="char:EOLhyphen"/>nishment thereof by our Laws, be far short of what they de<g ref="char:EOLhyphen"/>serve, yet certainly are they not so much to be imputed to the Defect of our Laws, as to the Neglect of Execution; and therefore more to the Fault of the Magistrate, than of the Le<g ref="char:EOLhyphen"/>gislator, be his fault what it will. But I need not speak of them in particular: For they who will not be perswaded by what I have said to the faithful Discharge of their Duty for the Correction of this, will hardly be perswaded to do it in those: and they who have that Sense of their Duty as to do it in this, will not be wanting to do it in the rest. If they do but study well their Authority concerning the <hi>Good Behaviour,</hi> and act accordingly, some Good may be done.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="appendix">
+            <pb n="9" facs="tcp:98152:5"/>
+            <head>An APPENDIX TO THE ADMONITION TO THE <hi>Magistrates.</hi>
+            </head>
+            <p>COncerning the <hi>Execution of the Act against Prophane Swearing,</hi> Printed in the <hi>Admonition,</hi> it may be necessary to add some things:</p>
+            <p>And 1. as to <hi>Priviledge of the Parliament,</hi> because some Members may be as apt to transgress this Law as other Men; and some possibly may be so ill advised as to insist upon their Priviledge; and some Officers and others be afraid to do their Duty in such Case; it is fit to be known, 1. That <hi>Information</hi> to a Justice of Peace against a Member of Parliament for this Offence is no Breach of Priviledge: 2. Nor is a <hi>Warrant</hi> by a Justice of Peace <hi>to demand</hi> the Forfei<g ref="char:EOLhyphen"/>ture; or <hi>a Demand of the Forfeiture</hi> by an Officer ac<g ref="char:EOLhyphen"/>cording to his Warrant, any Breach of Priviledge a<g ref="char:EOLhyphen"/>gainst a Member of Parliament. Thus far therefore they may safely go in this Case: And because the
+<pb n="10" facs="tcp:98152:6"/>Complaint and Proof must be within twenty days after the Offence committed, it will be necessary that they do so: that is, that the Justice make his War<g ref="char:EOLhyphen"/>rant to demand the Forfeiture, and the Officer may demand it. But if it be not paid, he may make another Warrant to distrain when the time of Priviledge is out; or in the mean time, upon just occasion, send up the Warrant with the Constables or Church-Wardens return to the Parliament.</p>
+            <p>And this may be very fit to be done, when the Of<g ref="char:EOLhyphen"/>fence is committed with such aggravating Circum<g ref="char:EOLhyphen"/>stances, as manifest it to be done wilfully and pre<g ref="char:EOLhyphen"/>sumptuously. For that being a Contempt of the Laws, and by consequence of the Authority by which they are made, and which is far above all, of the Sacred Majesty of Almighty God, whose Ministers Legislators and Magistrates are, it is very fit to be well considered by the Parliament, as also by the Country and those who chose him, whether a person so inconsiderate and impious, as not only to contemn their Authority, but give up himself to a subservience to the Devil in so gross an Affront to Christianity, and to glory in it as a piece of Bravery, be fit to be permitted to sit in Parliament, or admitted to any Publick Employment in a Christian State?</p>
+            <p n="2">2. And for the better Execution of this Act, it may be of use to many to have a Precedent of a <hi>Warrant</hi> for this purpose, which I shall therefore here insert:</p>
+            <q>
+               <pb n="11" facs="tcp:98152:6"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>To the Constable, Church-Wardens, and O<g ref="char:EOLhyphen"/>verseers of the Poor of the Parish of <hi>Dale,</hi> and to every of them.</head>
+                        <opener>
+                           <dateline>Midd' ss.</dateline>
+                        </opener>
+                        <p>WHereas <hi>John</hi> of <hi>Stiles</hi> of <hi>Dale</hi> in this County, standeth convicted before me of Prophane Swearing and Cursing two several times within your Parish, since the five and twentieth day of <hi>June</hi> last; These are therefore in Their Maje<g ref="char:EOLhyphen"/>sties Names, to Charge and Command you and eve<g ref="char:EOLhyphen"/>ry of you presently upon sight hereof, to demand of the said <hi>John</hi> of <hi>Stiles,</hi> the Sum of two Shillings, for the Ʋse of the Poor of your said Parish, accord<g ref="char:EOLhyphen"/>ing to the Form of the Statute in that Case made and provided: And if the said <hi>John</hi> of <hi>Stiles</hi> shall refuse to pay the same, that then you presently Levy the said two Shillings by Distress and Sale of his Goods, rendring unto him the Overplus, which shall remain upon Sale of his said Goods: And this shall be your sufficient Warrant.</p>
+                        <closer>
+                           <dateline>Given under my Hand and Seal <date>this thirteenth day of <hi>July,</hi> in the 1st Year of the Reign of K. <hi>William</hi> and Q. <hi>Mary.</hi>
+                              </date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And here it is to be noted, that if the Offendor be not of the Parish where the Offence is committed, the Officer having received a Warrant may demand the Forfeiture any where, and that done, if the Offendor hath no Goods in the same Parish to be distrained, the Justice may grant another Warrant to set him in the Stocks, or see him Whipp'd, as the case is, when he can be met with.</p>
+            <p n="3">3. Although by our Laws there is no obligation upon any man to inform in such case, which is plainly a de<g ref="char:EOLhyphen"/>fect; yet certainly is every man obliged both by the <hi>Law of Nature,</hi> and by the <hi>Positive Laws of God,</hi> to en<g ref="char:EOLhyphen"/>deavour
+<pb n="12" facs="tcp:98152:7"/>the suppression of so horrid, impious and dia<g ref="char:EOLhyphen"/>bolical a Vice, upon all occasions: and that is, as often as he shall hear this Offence committed, and have op<g ref="char:EOLhyphen"/>portunity to give Information thereof to a Justice of the Peace. 1. By the Law of Nature: For having re<g ref="char:EOLhyphen"/>ceived our Being from, and having a Continual Depen<g ref="char:EOLhyphen"/>dance upon, so excellent a Being; and having besides received such admirable Demonstrations, as we Chri<g ref="char:EOLhyphen"/>stians, and indeed all Man-kind, have of his Clemen<g ref="char:EOLhyphen"/>cy and Goodness to us, it is impossible we can have a greater Obligation, than we have, to be concerned for his Honour and Service. And 2. in the Sacred Scrip<g ref="char:EOLhyphen"/>tures we have various Indications of his Will in that respect; and that he expects it from us. And if we farther consider the several Special Obligations before-mentioned, incumbent upon this whole Nation, and by consequence, upon every person therein in their se<g ref="char:EOLhyphen"/>veral places, and as they have opportunity, to do their part toward the Reformation of all that Wickedness, which hath so long prevailed among us, I do not see how any man who well considers all this, to hear the Sacred Name of God prophaned, and the Christian Religion contemned and affronted by such desperate Wretches, and not complain to the Magistrates to have them punished. But these things I hope will be more largely pressed by the Clergy, when they read the Act, as they ought to do, twice in the Year.</p>
+            <p>And if upon these, or any other Considerations, the Magistrates be well disposed to discharge their Duty, and others to give their assistance, by Complaints and Information, as there shall be occasion, to promote so good a Work, there are Blank Warrants, Printed with License, for <hi>Benj. Tooke,</hi> and sold by <hi>R. Taylor,</hi> near Stationers-Hall, <hi>London.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
